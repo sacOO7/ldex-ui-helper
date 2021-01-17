@@ -1,0 +1,10 @@
+# Include this in library declaration if not found
+/// <reference types="selenium-webdriver" />
+
+npm pack
+npm config list
+npm link
+npm login
+npm publish
+
+https://stackoverflow.com/questions/29738381/how-to-publish-a-module-written-in-es6-to-npm
